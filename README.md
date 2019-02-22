@@ -3,6 +3,14 @@
 
 ### Image of the BK3266 dev board
 
+![Image 1](img/dev_1.png?raw=true "Dev1")
+
+![Image 2](img/dev_2.png?raw=true "Dev2")
+
+
+### Datasheet
+
+![BK3266 Datasheet](doc/BK3266 Datasheet.pdf?raw=true "BK3266 Datasheet")
 
 
 ### BK3266 Control instruction list
@@ -101,7 +109,7 @@ Support power-down save
 <p>
 Power on by default
 <p>
-Power-on 
+Power-on
    </td>
    <td>connection settings
    </td>
