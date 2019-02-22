@@ -10,8 +10,7 @@
 
 ### Datasheet
 
-![BK3266 Datasheet](doc/BK3266 Datasheet.pdf?raw=true "BK3266 Datasheet")
-
+[BK3266 Datasheet](doc/BK3266 Datasheet.pdf)
 
 ### BK3266 Control instruction list
 
